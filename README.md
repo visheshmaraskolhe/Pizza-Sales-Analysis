@@ -1,0 +1,1 @@
+Analyzed 100,000+ sales records using SQL to calculate KPIs such as Total Revenue, Average Order Value, and Total Pizzas Sold. Built 5+ Excel visualizations to analyze daily and hourly sales trends. Evaluated 10+ pizza categories to identify top and bottom performers, supporting data-driven menu optimization decisions.
